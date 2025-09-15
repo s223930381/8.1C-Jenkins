@@ -34,3 +34,5 @@ It demonstrates a 7-stage pipeline design integrated with GitHub.
 - Jenkins polls this GitHub repository every 2 minutes (`H/2 * * * *`).  
 - When a commit is pushed, Jenkins automatically runs the pipeline defined in the `Jenkinsfile`.  
 - Each stage prints a message to confirm successful execution.
+- ✅ Test commit for Jenkins integration
+
