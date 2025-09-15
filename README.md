@@ -36,4 +36,5 @@ It demonstrates a 7-stage pipeline design integrated with GitHub.
 - Each stage prints a message to confirm successful execution.
 - ✅ Test commit for Jenkins integration
 -Last update: test for Jenkins auto-trigger
+🔄 Test commit at 10:30 AM to trigger Jenkins
 
