@@ -35,5 +35,5 @@ It demonstrates a 7-stage pipeline design integrated with GitHub.
 - When a commit is pushed, Jenkins automatically runs the pipeline defined in the `Jenkinsfile`.  
 - Each stage prints a message to confirm successful execution.
 
-Test
+
 
